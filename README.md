@@ -148,7 +148,7 @@ userList.when(
 |@riverpod + ref.keepAlive()|O|
 |@Riverpod(keepAlive=true)|O|
 |@Riverpod(keepAlive=false)|X|
-|@Riverpod(keepAlive=false) + ref.keepAlive()|X|
+|@Riverpod(keepAlive=false) + ref.keepAlive()|O|
 
 # Strem Provider
 ## 생성
